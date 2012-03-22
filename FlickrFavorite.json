@@ -1,0 +1,18 @@
+[
+   {
+      "created_at" : "2012-2-1T16:45:00+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "nextLink" : "//a[@class='Next rapidnofollow']",
+         "paragraph" : "id('photo-display-container clearfix')/div",
+         "permalink" : ".//a[@class='rapidnofollow']",
+         "subRequest.caption" : "id('meta')/h1/text()",
+         "subRequest.imageSource" : ".//div[@class='photo-div']/img",
+         "subRequest.paragraph" : "id('primary-column')",
+         "url" : "http://www.flickr.com/photos/toshi/favorites/"
+      },
+      "database_resource_url" : "",
+      "name" : "FlickrFavorite",
+      "resource_url" : ""
+   }
+]

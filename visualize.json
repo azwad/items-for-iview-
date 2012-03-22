@@ -1,0 +1,19 @@
+[
+   {
+      "created_at" : "2011-12-31T23:15:04+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "nextLink" : ".//a[@class='next']",
+         "paragraph" : "id('mainContent')",
+         "permalink" : ".//ul/li[2]/a",
+         "subRequest.caption" : ".//h2",
+         "subRequest.imageSource" : ".//a/img",
+         "subRequest.paragraph" : "id('mainContent')",
+         "url" : "http://vi.sualize.us/popular/"
+      },
+      "database_resource_url" : "",
+      "name" : "vi.sualize.us_popular",
+      "resource_url" : "",
+      "updated_at" : "2011-12-31T23:15:04+09:00"
+   }
+]

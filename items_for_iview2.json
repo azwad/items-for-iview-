@@ -1,0 +1,22 @@
+[
+   {
+      "created_at" : "2011-12-31T23:15:04+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "caption" : "./div/div[2]/a",
+         "imageSource" : ".//a/img",
+         "nextLink" : "id('pager')//a[@class='last']",
+         "paragraph" : "//div[@class='image']",
+         "subRequest.caption" : "id('wrapper')/div[2]/h4[1]",
+         "subRequest.imageSource" : "id('wrapper')/div/img",
+         "subRequest.imageSourceForReblog" : "id('wrapper')/div/img",
+         "subRequest.paragraph" : "./a",
+         "subRequest.permalink" : "//div/div[2]a",
+         "url" : "http://hellokisses.com/?tag=model"
+      },
+      "database_resource_url" : "",
+      "name" : "HelloKisses",
+      "resource_url" : "",
+      "updated_at" : "2011-12-31T23:15:04+09:00"
+   }
+]

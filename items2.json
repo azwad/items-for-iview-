@@ -1,0 +1,54 @@
+[
+   {
+      "created_at" : "2010-11-15T23:10:16+09:00",
+      "created_by" : "taizooo",
+      "data" : {
+         "nextLink" : "id(\"pager-bottom\")/a[@class=\"next\"]",
+         "paragraph" : "//li[contains(@class,\"result\")]",
+         "permalink" : "./div[@class=\"msg\"]//a[starts-with(@href,\"http://twitpic.com/\")]",
+         "subRequest.caption" : "substring-after(substring-before(id(\"photo-controls\")//a[contains(text(),\"full\")]/@href,\"/full\"),\"/\")",
+         "subRequest.imageSource" : "id(\"photo-display\")",
+         "subRequest.paragraph" : "id(\"photo\")",
+         "url" : "http://search.twitter.com/search?q=%E3%82%BF%E3%82%A4%E3%83%84+twitpic"
+      },
+      "database_resource_url" : "http://wedata.net/databases/iview",
+      "name" : "tights on twitpic",
+      "resource_url" : "http://wedata.net/items/39527",
+      "updated_at" : "2010-11-16T00:28:57+09:00"
+   },
+   {
+      "created_at" : "2010-09-15T17:08:26+09:00",
+      "created_by" : "yksk",
+      "data" : {
+         "nextLink" : "//div[@class=\"pager\"]/p[@class=\"next\"]/a",
+         "paragraph" : "id(\"mainPrimary\")//div[@class=\"itemImg\"]",
+         "permalink" : "./a",
+         "subRequest.caption" : "//h1",
+         "subRequest.imageSource" : "concat(substring-before(./@src, \"_thumb\"), substring-after(./@src, \"_thumb\"))",
+         "subRequest.paragraph" : "//div[@class=\"unitProductImg group\"]//a/img",
+         "url" : "http://www.tabio.com/jp/search/?attribute=ladies"
+      },
+      "database_resource_url" : "http://wedata.net/databases/iview",
+      "name" : "Tabio (Ladies)",
+      "resource_url" : "http://wedata.net/items/36411",
+      "updated_at" : "2010-09-15T17:20:55+09:00"
+   },
+   {
+      "created_at" : "2010-01-23T01:13:15+09:00",
+      "created_by" : "taizooo",
+      "data" : {
+         "nextLink" : "//div[@class=\"article\"]/div[@class=\"archive-info\"]//li[1]/a",
+         "paragraph" : "//div[@class=\"thumbnail-image\"]",
+         "permalink" : "./a",
+         "subRequest.caption" : "./div[@class=\"image-title\"]/h2",
+         "subRequest.imageSource" : "./a/img",
+         "subRequest.imageSourceForReblog" : "./a",
+         "subRequest.paragraph" : "//div[@class=\"images\"]",
+         "url" : "http://earthobservatory.nasa.gov/IOTD/archive.php?cat_id=5"
+      },
+      "database_resource_url" : "http://wedata.net/databases/iview",
+      "name" : "NASA Earth Observatory",
+      "resource_url" : "http://wedata.net/items/31193",
+      "updated_at" : "2010-01-23T23:18:31+09:00"
+   }
+]

@@ -1,0 +1,14 @@
+{
+   "created_at" : "2012-01-18T13:46:00+09:00",
+   "created_by" : "toshi",
+   "data" : {
+      "paragraph" : "//table/tr/td",
+      "permalink" : ".//a",
+      "subRequest.imageSource" : "./img",
+      "subRequest.paragraph" : "//center[1]",
+      "url" : "http://up4.jp"
+   },
+   "database_resource_url" : "",
+   "name" : "up4.jp",
+   "resource_url" : ""
+}

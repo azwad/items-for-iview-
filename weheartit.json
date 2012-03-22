@@ -1,0 +1,18 @@
+{
+   "created_at" : "2008-08-20T23:13:53+09:00",
+   "created_by" : "ku",
+   "data" : {
+      "nextLink" : "//div[@class='older']/a",
+      "paragraph" : "//div[@class='catalog']",
+      "permalink" : "./div/a",
+      "subRequest.caption" : ".//h2",
+      "subRequest.imageSource" : ".//img",
+      "subRequest.paragraph" : "id('canvas')",
+      "url" : "http://weheartit.com/"
+   },
+   "database_resource_url" : "",
+   "name" : "WeHeartIt2",
+   "recreated_by" : "toshi",
+   "resource_url" : "",
+   "updated_at" : "2012-01-015T12:33:00+09:00"
+}

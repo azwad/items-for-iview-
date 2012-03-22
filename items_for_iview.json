@@ -1,0 +1,114 @@
+[
+   {
+      "created_at" : "2008-08-20T23:13:53+09:00",
+      "created_by" : "ku",
+      "data" : {
+         "nextLink" : "//div[@class='older']/a",
+         "paragraph" : "//div[@class='catalog']",
+         "permalink" : "./div/a",
+         "subRequest.caption" : ".//h2",
+         "subRequest.imageSource" : ".//img",
+         "subRequest.paragraph" : "id('canvas')",
+         "url" : "http://weheartit.com/"
+      },
+      "database_resource_url" : "",
+      "name" : "WeHeartIt2",
+      "recreated_by" : "toshi",
+      "resource_url" : "",
+      "updated_at" : "2012-01-015T12:33:00+09:00"
+   },
+   {
+      "created_at" : "2012-01-06T21:31:53+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "nextLink" : "id('pager')//a[@class='last']",
+         "paragraph" : "//div[@class='image']",
+         "permalink" : "./a",
+         "subRequest.caption" : "id('indivPost-rightColumn')/h3",
+         "subRequest.imageSource" : "id('indivPost-leftColumn')/img",
+         "subRequest.paragraph" : "id('wrapper')",
+         "url" : "http://piccsy.com/"
+      },
+      "database_resource_url" : "",
+      "name" : "Piccsy",
+      "resource_url" : ""
+   },
+   {
+      "created_at" : "2011-12-31T23:15:04+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "nextLink" : "id('pager')//a[@class='last']",
+         "paragraph" : "//div[@class='image']",
+         "permalink" : "./a",
+         "subRequest.caption" : "id('indivPost-rightColumn')/h4[1]",
+         "subRequest.imageSource" : "id('indivPost-leftColumn')/img",
+         "subRequest.paragraph" : "id('wrapper')",
+         "url" : "http://hellokisses.com/"
+      },
+      "database_resource_url" : "",
+      "name" : "HelloKisses",
+      "resource_url" : "",
+      "updated_at" : "2011-12-31T23:15:04+09:00"
+   },
+{
+   "created_at" : "2012-01-07T12:39:00+09:00",
+   "created_by" : "toshi",
+   "data" : {
+      "nextLink" : "//a[@class='next_page']",
+      "paragraph" : "//div[@class='container']",
+      "permalink" : "./div[@class='col d4']//a",
+      "subRequest.caption" : "id('subheader')/h2",
+      "subRequest.imageSource" : ".//div[@class='center']//a/img",
+      "subRequest.paragraph" : "//div[@class='container']",
+      "url" : "http://500px.com/"
+   },
+   "database_resource_url" : "",
+   "name" : "500px_Popular",
+   "resource_url" : ""
+   },
+   {
+      "created_at" : "2012-01-07T14:28:00+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "paragraph" : "//div[@class='pin']",
+         "permalink" : "./a",
+         "subRequest.caption" : "./div[4]//text()",
+         "subRequest.imageSource" : "./div[3]//img",
+         "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
+         "url" : "http://pinterest.com"
+      },
+      "database_resource_url" : "",
+      "name" : "Pinterest",
+      "resource_url" : ""
+   },
+   {
+      "created_at" : "2012-01-18T13:46:00+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "paragraph" : "//table/tr/td",
+         "permalink" : ".//a",
+         "subRequest.imageSource" : "./img",
+         "subRequest.paragraph" : "//center[1]",
+         "url" : "http://up4.jp"
+      },
+      "database_resource_url" : "",
+      "name" : "up4.jp",
+      "resource_url" : ""
+   },
+   {
+      "created_at" : "2012-2-1T16:45:00\r\n+09:00",
+      "created_by" : "toshi",
+      "data" : {
+         "nextLink" : "//a[@class='Next rapidnofollow']",
+         "paragraph" : "id('photo-display-container clearfix')/div",
+         "permalink" : ".//a[@class='rapidnofollow']",
+         "subRequest.caption" : "id('meta')/h1/text()",
+         "subRequest.imageSource" : ".//div[@class='photo-div']/img",
+         "subRequest.paragraph" : "id('primary-column')",
+         "url" : "http://www.flickr.com/photos"
+      },
+      "database_resource_url" : "",
+      "name" : "FlickrFavorite",
+      "resource_url" : ""
+   }
+]
