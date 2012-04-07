@@ -3,8 +3,8 @@
    "created_by" : "toshi",
    "data" : {
       "paragraph" : "//div[@class='pin']",
-      "permalink" : "./a",
-      "subRequest.caption" : "./div[4]//text()",
+      "permalink" : "./div/a",
+      "subRequest.caption" : "./div[4]",
       "subRequest.imageSource" : "./div[3]//img",
       "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
       "url" : "http://pinterest.com"

@@ -4,8 +4,8 @@
       "created_by" : "toshi",
       "data" : {
          "paragraph" : "//div[@class='pin']",
-         "permalink" : "./a",
-         "subRequest.caption" : "./div[4]//text()",
+         "permalink" : "./div/a",
+         "subRequest.caption" : "./div[4]",
          "subRequest.imageSource" : "./div[3]//img",
          "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
          "url" : "http://pinterest.com/toshi0104/pins/"
@@ -19,8 +19,8 @@
       "created_by" : "toshi",
       "data" : {
          "paragraph" : "//div[@class='pin']",
-         "permalink" : "./a",
-         "subRequest.caption" : "./div[4]//text()",
+         "permalink" : "./div/a",
+         "subRequest.caption" : "./div[4]",
          "subRequest.imageSource" : "./div[3]//img",
          "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
          "url" : "http://pinterest.com/all/?category=science"
@@ -34,8 +34,8 @@
       "created_by" : "toshi",
       "data" : {
          "paragraph" : "//div[@class='pin']",
-         "permalink" : "./a",
-         "subRequest.caption" : "./div[4]//text()",
+         "permalink" : "./div/a",
+         "subRequest.caption" : "./div[4]",
          "subRequest.imageSource" : "./div[3]//img",
          "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
          "url" : "http://pinterest.com/source/architecturaldigest.com/"
@@ -44,28 +44,13 @@
       "name" : "Source::Architecuraldigest",
       "resource_url" : ""
    },
-   {
+  {
       "created_at" : "2012-01-07T14:28:00+09:00",
       "created_by" : "toshi",
       "data" : {
          "paragraph" : "//div[@class='pin']",
-         "permalink" : "./a",
-         "subRequest.caption" : "./div[4]//text()",
-         "subRequest.imageSource" : "./div[3]//img",
-         "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
-         "url" : "http://pinterest.com/theresamilstead/journal-arts/"
-      },
-      "database_resource_url" : "",
-      "name" : "Board::theresamilstead/journal-arts/",
-      "resource_url" : ""
-   },
-   {
-      "created_at" : "2012-01-07T14:28:00+09:00",
-      "created_by" : "toshi",
-      "data" : {
-         "paragraph" : "//div[@class='pin']",
-         "permalink" : "./a",
-         "subRequest.caption" : "./div[4]//text()",
+         "permalink" : "./div/a",
+         "subRequest.caption" : "./div[4]",
          "subRequest.imageSource" : "./div[3]//img",
          "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
          "url" : "http://pinterest.com/soranyan/pins/?filter=likes"
