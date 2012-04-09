@@ -3,7 +3,7 @@
    "created_by" : "toshi",
    "data" : {
       "paragraph" : "//div[@class='pin']",
-      "permalink" : "./div/a",
+      "permalink" : "./div[1]/a",
       "subRequest.caption" : "./div[4]",
       "subRequest.imageSource" : "./div[3]//img",
       "subRequest.paragraph" : "//div[@class='WhiteContainer clearfix']",
